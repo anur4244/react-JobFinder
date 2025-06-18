@@ -14,5 +14,5 @@ A simple React + Vite project to display job listings with a live search feature
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/jobfinder-app.git
+git clone https://github.com/anur4244/react-JobFinder.git
 cd jobfinder-app
