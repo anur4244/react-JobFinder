@@ -15,4 +15,4 @@ A simple React + Vite project to display job listings with a live search feature
 
 ```bash
 git clone https://github.com/anur4244/react-JobFinder.git
-cd jobfinder-app
+cd react-JobFinder
